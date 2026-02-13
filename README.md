@@ -1,4 +1,4 @@
-# SOC-Lab-Python-Log-Analysis
+## Python-Security-Log-Analysis
 Security automation using Python to analyze authentication logs and detect suspicious failed login activity.
 
 ## Project Overview
