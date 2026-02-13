@@ -73,3 +73,9 @@ The project demonstrates how scripting can support threat detection workflows by
 
 ## Conclusion
 This Python automation project provided hands-on experience with log analysis and security scripting. By developing a custom log analyzer, I learned how automation can assist SOC analysts in detecting suspicious authentication activity faster and more efficiently. The project demonstrates how even simple scripts can enhance threat detection processes and reduce manual log review.
+
+
+### Author
+
+**Umme Farva**  
+Cybersecurity Analyst
