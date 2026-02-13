@@ -1,4 +1,4 @@
-## Python-Security-Log-Analysis
+# Python-Security-Log-Analysis
 Security automation using Python to analyze authentication logs and detect suspicious failed login activity.
 
 ## Project Overview
@@ -15,9 +15,9 @@ The project demonstrates how scripting can support threat detection workflows by
 - Opened Command Prompt and verified Python installation.
 - Created a structured project folder with Logs and Screenshots directories.
 
-<img width="900" alt="Python Version Check" src="screenshots/01_python_version_check.png" />
+<img width="900" alt="Python Version Check" src="Screenshots/01_python_version_check.png" />
 
-<img width="900" alt="Project Folder Structure" src="screenshots/02-project_folder_structure.png" />
+<img width="900" alt="Project Folder Structure" src="Screenshots/02-project_folder_structure.png" />
 
 ---
 
@@ -27,9 +27,9 @@ The project demonstrates how scripting can support threat detection workflows by
 - Added login events including successful logins and multiple failed login attempts.
 - These logs simulate authentication activity monitored by SOC analysts.
 
-<img width="900" alt="Auth Log File Created" src="screenshots/03- auth_log_file_created.png" />
+<img width="900" alt="Auth Log File Created" src="Screenshots/03- auth_log_file_created.png" />
 
-<img width="900" alt="Auth Log Content" src="screenshots/04-05_auth_log_content.png" />
+<img width="900" alt="Auth Log Content" src="Screenshots/04-05_auth_log_content.png" />
 
 ---
 
@@ -43,9 +43,9 @@ The project demonstrates how scripting can support threat detection workflows by
   - Counts repeated failures per IP
   - Flags suspicious activity when failures exceed a threshold
 
-<img width="900" alt="Python Script File Created" src="screenshots/05-python_script_file_created.png" />
+<img width="900" alt="Python Script File Created" src="Screenshots/05-python_script_file_created.png" />
 
-<img width="900" alt="Python Code Added" src="screenshots/06-python_code_added.png" />
+<img width="900" alt="Python Code Added" src="Screenshots/06-python_code_added.png" />
 
 ---
 
@@ -55,9 +55,9 @@ The project demonstrates how scripting can support threat detection workflows by
 - Ran the Python script to analyze logs automatically.
 - The script detected suspicious IP addresses with multiple failed login attempts.
 
-<img width="900" alt="CMD Opened in Project Folder" src="screenshots/07-cmd_opened_in_project_folder.png" />
+<img width="900" alt="CMD Opened in Project Folder" src="Screenshots/07-cmd_opened_in_project_folder.png" />
 
-<img width="900" alt="Script Output" src="screenshots/08-script_output.png" />
+<img width="900" alt="Script Output" src="Screenshots/08-script_output.png" />
 
 ---
 
