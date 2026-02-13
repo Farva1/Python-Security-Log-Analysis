@@ -1,0 +1,7 @@
+2025-01-10 10:21:32 INFO User admin logged in from 192.168.1.10
+2025-01-10 10:22:10 WARNING Failed login attempt for user admin from 203.0.113.45
+2025-01-10 10:22:45 WARNING Failed login attempt for user admin from 203.0.113.45
+2025-01-10 10:23:01 WARNING Failed login attempt for user admin from 203.0.113.45
+2025-01-10 10:25:18 INFO User guest logged in from 192.168.1.15
+2025-01-10 10:26:54 WARNING Failed login attempt for user root from 198.51.100.23
+2025-01-10 10:27:30 WARNING Failed login attempt for user root from 198.51.100.23
